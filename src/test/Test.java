@@ -8,6 +8,7 @@ public class Test {
 		double b = 0.9;
 		System.out.println(b);
 		System.err.println("Hi");
+		System.out.println("FFF");
 	}
 
 }

@@ -7,7 +7,7 @@ public class Test {
 		System.out.println(a);
 		double b = 0.9;
 		System.out.println(b);
-		
+		System.err.println("Hi");
 	}
 
 }

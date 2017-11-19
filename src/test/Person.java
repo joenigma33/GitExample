@@ -1,6 +1,14 @@
 package test;
 
 public class Person {
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
 	public int getId() {
 		return id;
 	}
@@ -10,5 +18,5 @@ public class Person {
 	}
 
 	private int id;
-	
+	private String name;
 }
